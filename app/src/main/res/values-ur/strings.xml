@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ریاضی بلبلی</string>
+
+    <string name="play_button">کھیل کا انتخاب کریں</string>
+    <string name="high_score_button">لیڈر بورڈ</string>
+    <string name="settings_button">ترتیبات</string>
+    <string name="leaderboard">لیڈرکار</string>
+
+    <string name="bubble_leaderboard">بلبلا لیڈر</string>
+
+
+
+    <string name="bubble_scores">بلبلا</string>
+
+    <string name="bubble_value_1">ایک</string>
+    <string name="bubble_value_2">دو</string>
+    <string name="bubble_value_3">تین</string>
+    <string name="bubble_value_4">چار</string>
+    <string name="bubble_value_5">پانچ</string>
+    <string name="bubble_value_6">چھ</string>
+    <string name="bubble_value_7">سات</string>
+    <string name="bubble_value_8">آٹھ</string>
+    <string name="bubble_value_9">نو</string>
+
+
+    <string name="user_label">صارف کا نام</string>
+    <string name="score_label">اسکور</string>
+    <string name="how_to_play">کیسے کھیلنا ہے</string>
+    <string name="game1">بلبلی</string>
+
+
+    <string name="pop_up_next">اگلے</string>
+    <string name="pop_up_prev">پچھلا</string>
+
+    <string name="high_score">زیادہ اسکور: </string>
+    <string name="changeLang">زبان تبدیل کریں </string>
+    <string name="play_game">کھیل کھیلیں</string>
+    <string name="game_finish_msg">Great Job! Your Score is</string>
+</resources>

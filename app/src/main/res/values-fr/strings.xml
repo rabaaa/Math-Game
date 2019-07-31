@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bulles de maths</string>
+
+    <string name="play_button">Sélectionnez un jeu</string>
+    <string name="high_score_button">Classement</string>
+    <string name="settings_button">Réglages</string>
+    <string name="leaderboard">Classement</string>
+
+    <string name="bubble_leaderboard">Bubble Leaderboard</string>
+
+
+
+    <string name="bubble_scores">Bulle</string>
+
+    <string name="bubble_value_1">1</string>
+    <string name="bubble_value_2">2</string>
+    <string name="bubble_value_3">3</string>
+    <string name="bubble_value_4">4</string>
+    <string name="bubble_value_5">5</string>
+    <string name="bubble_value_6">6</string>
+    <string name="bubble_value_7">7</string>
+    <string name="bubble_value_8">8</string>
+    <string name="bubble_value_9">9</string>
+
+    <string name="user_label">Nom d\'utilisateur</string>
+    <string name="score_label">But</string>
+    <string name="how_to_play">Comment jouer</string>
+    <string name="game1">Bulles</string>
+
+
+    <string name="pop_up_next">Suivant</string>
+    <string name="pop_up_prev">précédent</string>
+
+    <string name="high_score">Score élevé: </string>
+    <string name="changeLang">Changer de langue </string>
+    <string name="play_game">Jouer au jeu</string>
+    <string name="game_finish_msg">Great Job! Your Score is</string>
+</resources>
+

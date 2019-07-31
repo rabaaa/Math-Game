@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menu"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="com.funnums.funnums.maingame.MainMenuActivity">
+
+    <Button
+        android:id="@+id/buttonSelect"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:onClick="onPressedSelect"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/button_rounded_corner"
+        android:text="@string/play_game" />
+
+    <Button
+        android:id="@+id/buttonHScore"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:onClick="onPressedScores"
+        android:background="@drawable/button_rounded_corner"
+        android:text="@string/high_score_button" />
+
+    <Button
+        android:id="@+id/buttonSettings"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:onClick="onPressedSettings"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/button_rounded_corner"
+        android:text="@string/settings_button" />
+
+
+    <Button
+        android:id="@+id/changeMyLang"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:onClick="showChangeLanguageDialog"
+        android:background="@drawable/button_rounded_corner"
+        android:text="@string/changeLang" />
+
+
+</LinearLayout>

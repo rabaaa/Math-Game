@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">गणित के बुलबुले</string>
+
+    <string name="play_button">खेल का चयन करें</string>
+    <string name="high_score_button">लीडर बोर्ड</string>
+    <string name="settings_button">सेटिंग्स</string>
+    <string name="leaderboard">लीडरबोर्ड</string>
+
+    <string name="bubble_leaderboard">बबल लीडरबोर्ड</string>
+
+
+
+    <string name="bubble_scores">बुलबुला</string>
+    <string name="bubble_value_1">1</string>
+    <string name="bubble_value_2">2</string>
+    <string name="bubble_value_3">3</string>
+    <string name="bubble_value_4">4</string>
+    <string name="bubble_value_5">5</string>
+    <string name="bubble_value_6">6</string>
+    <string name="bubble_value_7">7</string>
+    <string name="bubble_value_8">8</string>
+    <string name="bubble_value_9">9</string>
+
+
+    <string name="user_label">उपयोगकर्ता नाम</string>
+    <string name="score_label">स्कोर</string>
+    <string name="how_to_play">कैसे खेलें</string>
+    <string name="game1">बुलबुले</string>
+
+
+    <string name="pop_up_next">आगामी</string>
+    <string name="pop_up_prev">पिछला</string>
+
+    <string name="high_score">उच्च स्कोर: </string>
+    <string name="changeLang">भाषा बदलो </string>
+    <string name="play_game">खेल खेले</string>
+    <string name="game_finish_msg">Great Job! Your Score is</string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
